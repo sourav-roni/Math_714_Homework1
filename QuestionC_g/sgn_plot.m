@@ -12,7 +12,7 @@ ny = 3;
 % most fine grid
 
 % Variable to account for most fine grid
-finest_grid = 10;
+finest_grid = 5;
 
 % Function to compute the number of grid points in-between the edges 
 % k accounts for the coarseness of the grid, the higher the value, the
