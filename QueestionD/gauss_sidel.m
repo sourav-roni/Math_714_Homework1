@@ -1,3 +1,5 @@
+% Name: Sourav Pal
+% Date: 09/05/2020
 %Implementation of Gauss Sidel Iterative method
 function x = gauss_sidel(A, b, max_iter, x0)
     % Note A is a matrix and b and x are vectors here

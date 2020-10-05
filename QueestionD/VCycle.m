@@ -1,3 +1,5 @@
+% Name: Sourav Pal
+% Date: 09/05/2020
 % This function reflects major steps as discussed in class and present in
 % the book. Uses formulae from the reference book
 function x_iter = VCycle(step, all_As, all_restrictions, b, x0 , pre_steps, post_steps, n_direct_sol)

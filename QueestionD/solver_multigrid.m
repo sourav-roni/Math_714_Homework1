@@ -1,3 +1,5 @@
+% Name: Sourav Pal
+% Date: 09/05/2020
 % Implementation of Multigrid solver for A * x = b 
 % Uses formulae from the reference book
 

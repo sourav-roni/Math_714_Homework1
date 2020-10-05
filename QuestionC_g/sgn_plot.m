@@ -1,3 +1,5 @@
+% Name: Sourav Pal
+% Date: 09/05/2020
 % Signum function plots
 % In order to compute error in this case, we will use a fine mesh 
 % and compute the error for coarser grids and then plot the error 

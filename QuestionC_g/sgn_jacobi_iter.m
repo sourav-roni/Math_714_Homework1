@@ -1,3 +1,5 @@
+% Name: Sourav Pal
+% Date: 09/05/2020
 function [u, temp_diff, iters] = sgn_jacobi_iter(nx, ny)
 
 % Define number of grid points in the two dimensions and their appropriate
